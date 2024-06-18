@@ -10,6 +10,10 @@
     {
       "src": "/(.*)",
       "dest": "index.js"
+    
     }
   ]
 }
+git add vercel.json
+git commit -m "Add Vercel configuration file"
+git push origin main
